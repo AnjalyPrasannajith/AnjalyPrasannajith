@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Anjaly Prasannajith
 
-<!--
-**AnjalyPrasannajith/AnjalyPrasannajith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+### 🔭 Current Work
+I'm currently working on **Quantitative Image Analysis with Python**
+- to analyze microtubule dynamics and movements from time lapse images. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning Journey
+I'm currently learning:
+- Advanced machine learning techniques
+- Deep learning for image recognition
+- Computational biology tools
+
+### 🤔 Seeking Help
+I'm looking for help with:
+- Microtubule comet detection and tracking
+- Optimizing image processing pipelines
+
+
+### 📫 How to Reach Me
+You can reach me via email at: [aprasan@iu.edu](mailto:aprasan@iu.edu)
+
+### 😄 Pronouns
+She/Her/Hers
